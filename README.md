@@ -1,3 +1,4 @@
+POR FAVOR, LEER EL <a href="https://github.com/zFrozz/Massive-Discord-token-leak/blob/main/Info.md">Info.md</a>
 # Info
 # Este Repo contiene mas de 300k de tokens de discord, son de bots y usuarios.
 # Si discord detecta algo de esto, es posible que recibiras un correo.
